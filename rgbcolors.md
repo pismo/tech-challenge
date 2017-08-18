@@ -70,3 +70,5 @@ Para  o  formato  RGB888  cada componente (R, G e B) varia entre 0 e 2ˆ8. Já n
 RGB565  os  limites são, 0 <= R <= 2^5, 0 <= G <= 2^6 e 0 <= B <= 2^5. Não é necessário
 validar  os  limites  na  entrada,  mas  os  valores  devem ser truncados para caber na
 representação.
+
+Para este desafio não utilizar nenhuma lib 3rd party.
